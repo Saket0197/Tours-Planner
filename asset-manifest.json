@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tours-Planner/static/css/main.a88000ad.css",
+    "main.js": "/Tours-Planner/static/js/main.9765b0a0.js",
+    "index.html": "/Tours-Planner/index.html",
+    "main.a88000ad.css.map": "/Tours-Planner/static/css/main.a88000ad.css.map",
+    "main.9765b0a0.js.map": "/Tours-Planner/static/js/main.9765b0a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a88000ad.css",
+    "static/js/main.9765b0a0.js"
+  ]
+}
