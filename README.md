@@ -1,2 +1,2 @@
-# Tours-Planner
-Tours Planner - REACTJS
+# Tour-Planner
+Tour Planner - REACTJS
